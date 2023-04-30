@@ -28,9 +28,9 @@ INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES
 ('daniel', 'luke', 1, 1),
 ('hicham', 'The Tank Engine', 2, 2),
-('hicham', 'Rffiai', 3, 3),
-('hicham', 'idrissi', 4, 4),
-('hicham', 'holmes', 5, 5),
+('hicham', 'Raffiai', 3, 3),
+('hicham', 'Idrissi', 4, 4),
+('hicham', 'Holmes', 5, 5),
 ('Tom', 'Hanks', 6, 6),
 ('Tom', 'Holland', 7, 7),
 ('Tom', 'Ford', 8, 8),
