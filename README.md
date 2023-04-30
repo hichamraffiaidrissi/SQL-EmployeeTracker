@@ -8,7 +8,6 @@ Developers frequently have to create interfaces that allow non-developers to eas
 ## Table of Contents:
 - [Overview](#Overview)
 - [The Challenge](#The-Challenge)
-- [Usage Information](#Usage-Information)
 - [License](#License)
 
 
