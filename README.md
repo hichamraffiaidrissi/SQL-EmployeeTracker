@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 ## Description:
- The interfaces allows non-developers to easily view and interact with information through the command-line of the application stored in an SQL Employee Tracker database. 
+Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called content management systems (CMS).
 
 ## Table of Contents:
 - [Overview](#Overview)
