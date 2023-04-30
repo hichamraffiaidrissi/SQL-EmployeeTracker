@@ -9,7 +9,6 @@ Developers frequently have to create interfaces that allow non-developers to eas
 - [Overview](#Overview)
 - [The Challenge](#The-Challenge)
 - [Usage Information](#Usage-Information)
-- [Built With](#Built-With)
 - [License](#License)
 
 
@@ -67,7 +66,7 @@ THEN I am prompted to select an employee to update and their new role and this i
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
 
-### Copyright © 2023 Thomas Calle
+### Copyright © 2023
 ```md
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
