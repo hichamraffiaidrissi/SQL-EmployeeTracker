@@ -435,7 +435,7 @@ function viewEmployeesByManager() {
     connection.query(query, (err, res) => {
         if (err) throw err;
 
-        // group employees by manager
+        // group employees by manager.
         const employeesByManager = res.reduce((acc, cur) => {
             const managerName = cur.manager_name;
             if (acc[managerName]) {
@@ -446,7 +446,7 @@ function viewEmployeesByManager() {
             return acc;
         }, {});
 
-        // display employees by manager
+        // display employees by manager.
         console.log("Employees by manager:");
         for (const managerName in employeesByManager) {
             console.log(`\n${managerName}:`);
@@ -458,11 +458,11 @@ function viewEmployeesByManager() {
             });
         }
 
-        // restart the application
+        // restart the application.
         start();
     });
 }
-// Function to view Employees by Department
+// Function to view Employees by Department.
 function viewEmployeesByDepartment() {
     const query =
         "SELECT departments.department_name, employee.first_name, employee.last_name FROM employee INNER JOIN roles ON employee.role_id = roles.id INNER JOIN departments ON roles.department_id = departments.id ORDER BY departments.department_name ASC";
