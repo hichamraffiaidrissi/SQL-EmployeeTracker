@@ -46,14 +46,13 @@ THEN I am prompted to select an employee to update and their new role and this i
 ```
 
 
-## Repository Link:
-[Repository Link]
-
 # Walkthrough Video:
-[Click Here to Watch.]
+[Click Here to Watch.] (https://drive.google.com/file/d/1-G2a0VgOgRDnAr__Zg-3USWtX0jqTh3-/view) 
 
 ## Screenshots.
-
+![](./assets/images/Screenshot1.png)
+![](./assets/images/Screenshot2.png)
+![](./assets/images/Screenshot3.png)
 
 
 ## What I Learned

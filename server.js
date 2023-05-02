@@ -1,13 +1,12 @@
 const inquirer = require("inquirer");
 const mysql = require("mysql2");
-const cfonts = require('cfonts');
-
+require("dotenv").config()
 // create a MySQL connection
 const connection = mysql.createConnection({
     host: "localhost",
     port: 3306,
     user: "root",
-    password: "",
+    password: process.env.PASSWORD,
     database: "employeeTracker_db",
 });
 
